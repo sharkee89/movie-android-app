@@ -47,6 +47,7 @@ public class MoviesFragment extends Fragment {
 
     public MoviesFragment() {
         // Required empty public constructor
+
     }
 
     public static MoviesFragment newInstance(String param1, String param2) {
