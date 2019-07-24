@@ -3,4 +3,10 @@
     <string name="title_movies">Movies</string>
     <string name="title_add_movie">Add Movie</string>
     <string name="title_about_us">About Us</string>
+
+    <!--MOVIE GENRES-->
+    <string name="genre1">Action</string>
+    <string name="genre2">Drama</string>
+    <string name="genre3">Romance</string>
+    <string name="genre4">Commedy</string>
 </resources>
