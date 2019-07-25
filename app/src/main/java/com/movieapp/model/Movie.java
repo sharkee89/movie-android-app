@@ -1,4 +1,4 @@
-package com.movieapp;
+package com.movieapp.model;
 
 /**
  * Created by ravi on 21/12/17.
@@ -7,6 +7,15 @@ package com.movieapp;
 public class Movie {
     String title;
     String image;
+
+    public Movie() {
+
+    }
+
+    public Movie(String title, String image) {
+        this.title = title;
+        this.image = image;
+    }
 
     public String getTitle() {
         return title;
