@@ -30,7 +30,7 @@ import org.json.JSONArray;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.movieapp.Movie;
+import com.movieapp.model.Movie;
 import com.movieapp.app.MyApplication;
 import info.androidhive.bottomnavigation.R;
 
